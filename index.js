@@ -40,11 +40,12 @@ function addGamesToPage(games) {
         // between the end of the src attribute and the end of the tag ("/>")
         gameCard.innerHTML = `
         <img src = "${games[i]["img"]}" class = "game-img">
-        <h1>Name: ${games[i]["name"]}</h1>
-        <h2>This game is about: ${"description"}</h2>
+        <h1>${games[i]["name"]}</h1>
+        <p>${games[i]["description"]}</p>
+        <p>Backers: ${games[i]["backers"]}</p>
         `;
         // append the game to the games-container
-        document.games-container.appendChild(gameCard)
+        document.getElementById("games-container").appendChild(gameCard)
 
     }     
 
@@ -52,7 +53,7 @@ function addGamesToPage(games) {
 
 // call the function we just defined using the correct variable
 // later, we'll call this function using a different list of games
-
+const addGames = addGamesToPage(GAMES_JSON)
 
 /*************************************************************************************
  * Challenge 4: Create the summary statistics at the top of the page displaying the
