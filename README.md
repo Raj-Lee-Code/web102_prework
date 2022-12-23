@@ -34,7 +34,7 @@ GIF created with LiceCap v1.32 (https://www.cockos.com/licecap/)
 
 ## Notes
 
-A few challeneges encountered were being able to learn more about destructuring and spread as it had been the first time I had utilized these techniques and some time was needed to really learn the ins and outs of those techniques leading me to play wround with them on a "test" page. Another challenge was decoding the provided code as I think it is always difficult at first to read someone elses code and initally it can take some time to see the logic as everyone would code slightly differently. 
+A few challenges encountered were being able to learn more about destructuring and spread as it had been the first time I had utilized these techniques and some time was needed to really learn the ins and outs of those techniques leading me to play around with them on a "test" page. Another challenge was decoding the provided code as I think it is always difficult at first to read someone else's code and initially it can take some time to see the logic as everyone would code slightly differently.
 
 ## License
 
