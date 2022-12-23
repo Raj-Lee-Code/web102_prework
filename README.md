@@ -26,7 +26,7 @@ Here's a walkthrough of implemented features:
 <img src='WEB102 Prework walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with LiceCap v1.32 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -34,7 +34,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+A few challeneges encountered were being able to learn more about destructuring and spread as it had been the first time I had utilized these techniques and some time was needed to really learn the ins and outs of those techniques leading me to play wround with them on a "test" page. Another challenge was decoding the provided code as I think it is always difficult at first to read someone elses code and initally it can take some time to see the logic as everyone would code slightly differently. 
 
 ## License
 
