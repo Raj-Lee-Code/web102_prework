@@ -26,7 +26,7 @@ Here's a walkthrough of implemented features:
 <img src='WEB102 Prework walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with LiceCap v1.32 
+GIF created with LiceCap v1.32 (https://www.cockos.com/licecap/)
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
