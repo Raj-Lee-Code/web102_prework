@@ -176,3 +176,11 @@ firstGameContainer.appendChild(topPledge)
 const secondPledge = document.createElement("h1")
 secondPledge.innerHTML = `${secondName}`
 secondGameContainer.appendChild(secondPledge)
+
+
+//Scroll up button logic
+const scrollUp = () =>{
+    document.body.scrollIntoView();
+}
+const topButton = document.querySelector(".toTop")
+topButton.addEventListener("click", scrollUp)

@@ -17,6 +17,19 @@ body {
     margin-left: -10px;
     margin-right: -10px;
     margin-top: -10px;
+
+}
+.toTop {
+    position: fixed;
+    right: .5rem;
+    bottom: .5rem;
+    border-radius: 100%
+  }
+
+a{
+    margin-left: 300px;
+    text-decoration: none;
+    color: red;
 }
 
 .stats-container {
